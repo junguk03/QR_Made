@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://사용자명.github.io/저장소명/sitemap.xml
+Sitemap: https://junguk03.github.io/QR_Made/sitemap.xml
